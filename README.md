@@ -1,5 +1,6 @@
 # choco-updater :chocolate_bar:
-Chocoupdater is a Python script to update your local choco repository
+Chocoupdater is a Python script to update your local Chocolatey repository.
+You can run it manually or put in a cron.
 
 ## Requirements
 ```
