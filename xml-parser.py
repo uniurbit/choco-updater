@@ -1,4 +1,4 @@
-# FB @ UniUrb 20201210
+# Francesco Buresta @ UniUrb 20201210
 # UniUrb choco update-feeder
 ''' 
 e.g. python xml-parser.py check
